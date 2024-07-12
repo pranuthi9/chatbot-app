@@ -1,1 +1,1 @@
-# rag-langchain-chatbot
+# chatbot-app
